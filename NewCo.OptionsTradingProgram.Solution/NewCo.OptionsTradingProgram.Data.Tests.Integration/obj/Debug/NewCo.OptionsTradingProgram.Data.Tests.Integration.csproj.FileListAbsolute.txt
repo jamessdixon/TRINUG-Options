@@ -1,0 +1,15 @@
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\bin\Debug\NewCo.OptionsTradingProgram.Data.Tests.Integration.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\bin\Debug\NewCo.OptionsTradingProgram.Data.Tests.Integration.pdb
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\obj\Debug\NewCo.OptionsTradingProgram.Data.Tests.Integration.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\obj\Debug\NewCo.OptionsTradingProgram.Data.Tests.Integration.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\obj\Debug\NewCo.OptionsTradingProgram.Data.Tests.Integration.pdb
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\bin\Debug\NewCo.OptionsTradingProgram.Data.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\bin\Debug\FSharp.Data.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\bin\Debug\NewCo.OptionsTradingProgram.Data.pdb
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\bin\Debug\NewCo.OptionsTradingProgram.Data.xml
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\bin\Debug\FSharp.Data.pdb
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\bin\Debug\FSharp.Data.xml
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\bin\Debug\FSharp.Core.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data.Tests.Integration\bin\Debug\FSharp.Core.xml
